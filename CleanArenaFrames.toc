@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: Clean Arena Frames
+## Notes: Cleaner arena frames with repositioned accessories and hidden casting bar
+## Author: MIYANKO
+## Version: 1.0.0
+## IconTexture: 133004
+
+ArenaFrames.lua
