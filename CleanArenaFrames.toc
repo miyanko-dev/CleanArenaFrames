@@ -1,6 +1,6 @@
 ## Interface: 120000
 ## Title: Clean Arena Frames
-## Notes: Cleaner arena frames with repositioned accessories and hidden casting bar
+## Notes: Clean and streamlined arena frames for World of Warcraft.
 ## Author: MIYANKO
 ## Version: 1.0.0
 ## IconTexture: 133006
