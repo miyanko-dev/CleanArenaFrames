@@ -37,8 +37,8 @@ end
 -- Hook CompactArenaFrame layout and diminish trays to reapply adjustments after Blizzard updates
 local function SetupArenaFrameHooks()
     local arenaFrame = CompactArenaFrame
-    if not arenaFrame or arenaFrame._cleanArenaHooked then return end
-    arenaFrame._cleanArenaHooked = true
+    if not arenaFrame or arenaFrame._betterArenaHooked then return end
+    arenaFrame._betterArenaHooked = true
 
     -- Hook UpdateLayout to reapply accessory positions after Blizzard recalculates its layout
     hooksecurefunc(arenaFrame, "UpdateLayout", function(self)

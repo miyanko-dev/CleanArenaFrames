@@ -1,5 +1,5 @@
 ## Interface: 120000
-## Title: Clean Arena Frames
+## Title: Better Arena Frames
 ## Notes: Clean and streamlined arena frames for World of Warcraft.
 ## Author: MIYANKO
 ## Version: 1.0.0
