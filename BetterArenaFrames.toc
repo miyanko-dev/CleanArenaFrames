@@ -1,5 +1,6 @@
 ## Interface: 120000
 ## Title: Better Arena Frames
+## Category: PvP
 ## Notes: Clean and streamlined arena frames for World of Warcraft.
 ## Author: MIYANKO
 ## Version: 1.0.0
