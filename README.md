@@ -1,4 +1,4 @@
-# BetterArenaFrames
+# Clean Arena Frames
 
 Clean and streamlined arena frames for World of Warcraft.
 

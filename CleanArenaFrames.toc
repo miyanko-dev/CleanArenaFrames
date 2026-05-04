@@ -1,5 +1,5 @@
-## Interface: 120000
-## Title: Better Arena Frames
+## Interface: 120005
+## Title: Clean Arena Frames
 ## Category: PvP
 ## Notes: Clean and streamlined arena frames for World of Warcraft.
 ## Author: MIYANKO
