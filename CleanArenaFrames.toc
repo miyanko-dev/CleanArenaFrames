@@ -2,7 +2,7 @@
 ## Title: Clean Arena Frames
 ## Category: PvP
 ## Notes: Clean and streamlined arena frames for World of Warcraft.
-## Author: MIYANKO
+## Author: miyanko
 ## Version: 1.0.0
 ## IconTexture: 133006
 
